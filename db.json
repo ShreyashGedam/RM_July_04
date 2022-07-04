@@ -1,0 +1,16 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Delhi",
+      "population": 19000000
+    },
+    {
+      "country": "SriLanka",
+      "city": "Colombo",
+      "population": "5600000",
+      "id": 3
+    }
+  ]
+}

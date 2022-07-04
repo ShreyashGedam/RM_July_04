@@ -1,0 +1,43 @@
+.heading
+{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.container
+{
+    margin: auto;
+    width: 50%;
+}
+
+.heading p 
+{
+    font-weight: bold;
+}
+
+.data
+{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+    justify-content: space-between;
+}
+
+.addMain {
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.addMain span {
+    margin-right: 20px;
+}
+
+.addMain input{
+    padding-left: 10px;
+}
+
+form div{
+    margin-bottom: 10px;
+}
